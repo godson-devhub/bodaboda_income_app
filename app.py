@@ -66,4 +66,4 @@ if st.button("Predict Daily Income"):
     # Predict
     prediction = model.predict(final_input)
 
-    st.success(f"Estimated Daily Income: {int(prediction[0]):,} TZS 💰")
+    st.success(f"Estimated Daily Income: {int(prediction[0].item()):,} TZS 💰")
