@@ -23,5 +23,5 @@ A Streamlit web app that predicts the **daily income of a bodaboda rider** based
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/godson-devhub/bodaboda_income_app>
 cd bodaboda_income_app
