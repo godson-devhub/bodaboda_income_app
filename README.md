@@ -8,7 +8,7 @@ A Streamlit web app that predicts the **daily income of a bodaboda rider** based
 - Input working conditions:
   - Hours worked per day
   - Fuel cost
-  - Distance covered
+  - Number of Trips
   - Road condition
   - Rainy day
   - Location type
